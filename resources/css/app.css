@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+.my-style {
+   .notification-title {
+       font-size: 16px
+   }
+
+    .notification-content {
+        font-size: 14px;
+    }
+}

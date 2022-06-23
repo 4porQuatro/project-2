@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <g id="Grupo_19779" data-name="Grupo 19779" transform="translate(-876 -420)">
+    <g id="Elipse_503" data-name="Elipse 503" transform="translate(876 420)" fill="none" stroke="#fff" stroke-width="2">
+      <circle cx="120" cy="120" r="120" stroke="none"/>
+      <circle cx="120" cy="120" r="119" fill="none"/>
+    </g>
+    <g id="Polígono_2" data-name="Polígono 2" transform="translate(1047 494) rotate(90)" fill="none">
+      <path d="M46.5,0,93,81H0Z" stroke="none"/>
+      <path d="M 46.5 4.017135620117188 L 3.454277038574219 79 L 89.54572296142578 79 L 46.5 4.017135620117188 M 46.5 0 L 93 81 L 0 81 L 46.5 0 Z" stroke="none" fill="#fff"/>
+    </g>
+  </g>
+</svg>
